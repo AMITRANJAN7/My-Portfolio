@@ -30,10 +30,10 @@ const Portfolio = () => {
     },
     {
       id:4,
-      name:"Netfix Clone",
+      name:"Movie App",
       src:netflixClone,
-      description: 'This is a project using React,Tailwind,API fetching & firebase for authintication and database.',
-      link:'https://netflixclone-l5or.onrender.com',
+      description: 'This is a project using React,Tailwind,API fetching & Reaxt-Redux.',
+      link:'https://movieapp-e6yu.onrender.com/',
     },
     {
       id:5,
