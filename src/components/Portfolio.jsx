@@ -32,7 +32,7 @@ const Portfolio = () => {
       id:4,
       name:"Movie App",
       src:netflixClone,
-      description: 'This is a project using React,Tailwind,API fetching & Reaxt-Redux.',
+      description: 'This is a project using React,Tailwind,API fetching & React-Redux.',
       link:'https://movieapp-e6yu.onrender.com/',
     },
     {
